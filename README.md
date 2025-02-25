@@ -1,5 +1,5 @@
 # Geometric-Structures
-Package for computing 
+Python code for for computing 
 - the complete hyperbolic structure by giving equations for edge and crossing labels (1 in the menu) and their complex values (2 in the menu) for a hyperbolic link in 3-sphere;
 - equations for the canonical component of PSL(2, C)-character variety (3 in the menu)
 of a hyperbolic knot in 3-sphere.
@@ -12,3 +12,4 @@ There is Python code and an exe file (the latter is for Windows).
 
 Most of the code was written by Jaeyun Bae, Dale Koenig, Anastasiia Tsvietkova.
 Other people have also worked on maintaining/improving the code: Alex Lowen, Mark Bell.
+Uses the spherogram module from SnapPy, as well as the NumPy, SciPy, and SymPy packages.
