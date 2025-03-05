@@ -8,8 +8,6 @@ The link/knot diagram needs to be taut (e.g. any reduced alternating diagram is 
 
 Computing  2 and 3 above are based on this paper: https://arxiv.org/abs/1108.0510; 3 is based on the upcoming preprint by K. Petersen, A. Tsvietkova. The equations for 3 can be large, and are hence recorded in a txt file in the folder with the code.
 
-There is Python code and an exe file (the latter is for Windows). 
-
 Most of the code was written by Jaeyun Bae, Dale Koenig, Anastasiia Tsvietkova.
 Other people have also worked on maintaining/improving the code: Alex Lowen, Mark Bell.
 Uses the spherogram module from SnapPy, as well as the NumPy, SciPy, and SymPy packages.
