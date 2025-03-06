@@ -4,7 +4,7 @@ Python code for computing
 - equations for the canonical component of PSL(2, C)-character variety (3 in the menu)
 of a hyperbolic knot in 3-sphere.
 
-The link/knot diagram needs to be taut (e.g. any reduced alternating diagram is taut) and can be given as Dowker-Thisletwhaite (DT) code or planar diagram (PD) code (the latter only for alternating links).
+The link/knot diagram needs to be taut (e.g. any reduced alternating diagram is taut) and can be given as Dowker-Thistlethwaite (DT) code or planar diagram (PD) code (the latter only for alternating links).
 
 Computing  1 and 2 above are based on this paper by Thistlethwaite and Tsvietkova: https://arxiv.org/abs/1108.0510; 3 is based on an upcoming preprint by K. Petersen and A. Tsvietkova. The equations for 3 can be large, and are hence recorded in a txt file in the folder with the code.
 
