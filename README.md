@@ -12,4 +12,4 @@ Most of the code was written by Jaeyun Bae, Dale Koenig, Anastasiia Tsvietkova.
 Other people have also worked on maintaining/improving the code: Alex Lowen, Mark Bell.
 Uses the spherogram module from SnapPy (www.github.com/3-manifolds/Spherogram), as well as the NumPy, SciPy, and SymPy packages.
 
-Exe file for Windows can be found here: www.sites.rutgers.edu/anastasiia-tsvietkova/geometric-structures-from-diagrams-code/
+Exe file for Windows can be found here: sites.rutgers.edu/anastasiia-tsvietkova/geometric-structures-from-diagrams-code/
