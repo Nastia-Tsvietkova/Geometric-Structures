@@ -1,4 +1,4 @@
-# Geometric-Structures
+# Geometric Structures from Diagrams
 Python code for computing 
 - the complete hyperbolic structure by giving equations for edge and crossing labels (1 in the menu) and their complex values (2 in the menu) for a hyperbolic link in 3-sphere;
 - equations for the canonical component of PSL(2, C)-character variety (3 in the menu)
@@ -13,3 +13,6 @@ Other people have also worked on maintaining/improving the code: Alex Lowen, Mar
 Uses the spherogram module from SnapPy (www.github.com/3-manifolds/Spherogram), as well as the NumPy, SciPy, and SymPy packages.
 
 Exe file for Windows can be found here: sites.rutgers.edu/anastasiia-tsvietkova/geometric-structures-from-diagrams-code/
+
+If you use the code, please reference it as
+Jaeyun Bae, Mark Bell, Dale Koenig, Alex Lowen, Anastasiia Tsvietkova, Geometric structures from diagrams,  www.github.com/Nastia-Tsvietkova/Geometric-Structures
