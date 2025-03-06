@@ -8,9 +8,9 @@ The link/knot diagram needs to be taut (e.g. any reduced alternating diagram is 
 
 Computing  1 and 2 above are based on this paper by Thistlethwaite and Tsvietkova: www.arxiv.org/abs/1108.0510; 3 is based on an upcoming preprint by K. Petersen and A. Tsvietkova. The equations for 3 can be large, and are hence recorded in a txt file in the folder with the code.
 
-Most of the code was written by Jaeyun Bae, Dale Koenig, Anastasiia Tsvietkova.
-Other people have also worked on maintaining/improving the code: Alex Lowen, Mark Bell.
-Uses the spherogram module from SnapPy (www.github.com/3-manifolds/Spherogram), as well as the NumPy, SciPy, and SymPy packages.
+Different people worked on the code at different times: Jaeyun Bae, Mark Bell, Dale Koenig, Alex Lowen, Anastasiia Tsvietkova.
+
+The code uses the spherogram module from SnapPy (www.github.com/3-manifolds/Spherogram), as well as the NumPy, SciPy, and SymPy packages.
 
 Exe file for Windows can be found here: sites.rutgers.edu/anastasiia-tsvietkova/geometric-structures-from-diagrams-code/
 
