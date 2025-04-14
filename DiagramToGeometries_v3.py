@@ -643,7 +643,7 @@ def analyze_alt_sol(L):
             edge_prod = 1
             for e in face:
                 edge_prod *= edge_vars[edge_indices[e]]
-            ##one=[]  #code error
+            ##one=[]  #Alex's code error
             ##for i in range(len(face)):
             ##    one.append(str(edge_vars[edge_indices[face[i]]]))
             f_n= get_f_n_D(tuple(shape_params),len(shape_params)) # get list of f_n functions. The will have fractions
