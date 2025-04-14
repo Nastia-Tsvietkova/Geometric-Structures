@@ -1,7 +1,7 @@
 # Geometric Structures from Diagrams
 Python code for computing 
 - the complete hyperbolic structure by giving equations for edge and crossing labels (1 in the menu) and their complex values (2 in the menu) for a hyperbolic link in 3-sphere;
-- equations for the canonical component of PSL(2, C)-character variety (3 in the menu)
+- equations for the canonical component of PSL(2, C)-representation variety (3 in the menu)
 of a hyperbolic knot in 3-sphere.
 
 The link/knot diagram needs to be taut (e.g. any reduced alternating diagram is taut) and can be given as Dowker-Thistlethwaite (DT) code or planar diagram (PD) code (the latter only for alternating links).
